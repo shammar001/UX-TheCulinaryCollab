@@ -6,13 +6,13 @@
 
 ## UX Team Members
 
-* **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Nothing
+* **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes.
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
 
-* [Personas and Scenarios](personas /)
+* [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
 * [Prototype](#)
