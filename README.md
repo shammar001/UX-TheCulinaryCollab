@@ -7,7 +7,7 @@
 ## UX Team Members
 
 * **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes.
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Sophie Hammar](https://usabilityengineering.github.io/ux-portfolio-shammar001/))** - Team communication/organization, Competitive Market Analysis, User Personas/Scenarios, Heuristic Evaluation, Sketches, Wireframes
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
@@ -27,9 +27,9 @@ Pea# Phase I: Analyzing Users, Competitors, and Initial Designs
 
     **Lack of Sharing** The apps surveyed lacked or had poorly implemented social features
 
-* Described User Stories and Personas and gained a  better understanding of our userbase.
+* Described User Stories and Personas and gained a  better understanding of our user base.
 
-* Completed Heuristic Evaluations of main competitor Highball, finding it a high quality app with few pitfalls.
+* Completed Heuristic Evaluations of main competitor Highball, finding it a high-quality app with few pitfalls.
 
 * Created and shared basic sketches to achieve a better understanding of the MVP for the Engineering team.
 
