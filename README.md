@@ -1,13 +1,16 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# The Culinary Collab
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+!!!A brief introduction to the project and the problem it is intended to solve!!!
+
+## Product Introduction
+The Culinary Collab is centered around a collaborative workspace for professionals and hobbyists to create, house, and share recipes from kitchen to bar. Working within an editable environment, our users have the ability to add inventory, create original recipes, and iterate off of classics. The Culinary Collab is the only place you will find that allows for a smart and clean design to house your recipes but also allows our users to share recipes to collaborate with your friends and coworkers [eliminating the need for messy binders, jampacked with hard-to-find recipes and creates a unique environment you won't have to leave, to share, innovate and complete your next best impressive recipe!].
 
 ## UX Team Members
 
 * **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes.
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Sophie Hammar](https://usabilityengineering.github.io/ux-portfolio-shammar001/))** - Team organization/communication, Competitive Market Analysis, Heuristic Evaluation, User Personas & Scenarios, Sketches, Wireframes
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
