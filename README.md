@@ -4,7 +4,7 @@
 
 
 ## **Product Introduction**
-The Culinary Collab is centered around offering a free and collaborative workspace for professionals and hobbyists to create, house, and share recipes from kitchen to bar. Working within an editable environment, our users have the ability to add inventory, create original recipes, and iterate off of classics. The Culinary Collab is the only place you will find that allows for a smart and clean design to house your recipes but also allows our users to share recipes to collaborate with their friends and coworkers [eliminating the need for messy binders, jampacked with hard-to-find recipes and cultivates a unique environment you won't have to leave to be able to share, innovate and complete your next best impressive recipe!].
+The Culinary Collab is centered around offering a free and collaborative workspace for professionals and hobbyists to create, house, and share recipes from kitchen to bar. Working within an editable environment, our users have the ability to add inventory, create original recipes, and iterate off of classics. The Culinary Collab is the only free platform users can find, that allows for a smart and clean design, to house recipes but also allows users to share creations/collaborate with friends, family, and coworkers [eliminating the need for messy binders, jampacked with hard-to-find recipes. We cultivate a unique environment where users won't have to leave to be able to share, innovate, and complete the next best mouthwatering course or cocktail!].
 
 ## UX Team Members
 
