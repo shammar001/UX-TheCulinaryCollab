@@ -1,5 +1,3 @@
-# Personas
+# Personas and Scenarios
 
-
-
-# Scenarios
+This portion is contained within [personas.pdf](personas.pdf)
