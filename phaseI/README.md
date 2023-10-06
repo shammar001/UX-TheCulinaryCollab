@@ -23,8 +23,6 @@ The Culinary Collab aims to provide a free, one-stop platform for both professio
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-
 1. User Personas & Scenarios:
 Each member of our team independently created 3 user personas and 1 user scenario each. Afterward, we evaluated each persona and scenario as a team, making suggestions and edits to ensure a well-rounded persona and realistic scenario were in place.
 
@@ -165,7 +163,7 @@ On pages where the user has not already given the necessary info, instructions a
 4. Sketches:
 Each of the sketches helped in analyzing possible pathways for the user interface. By creating sketches separately and bringing them together, we were able to predict user recognition and potential error checking for pre-stages of usability testing.
 
-Keeping in mind our previous heuristic evaluations surrounding competitive market analysis, we were able to ensure key features were implemented for future high-fidelity steps. Some of the key features included, but are not limited to, "back/home" buttons, settings option, recipe deck, communications section, template and ideation section.
+Keeping in mind our previous heuristic evaluations surrounding competitive market analysis, we were able to ensure key features were implemented for future high-fidelity steps. Some of the key features included, but are not limited to, "back/home" buttons, settings option, recipe deck, communications section, template, and ideation section.
   
 6. User Testing:
 The software engineering team demonstrated their current progress on the product to other software engineers and collected feedback on the questions we proposed.
