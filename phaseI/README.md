@@ -178,11 +178,10 @@ How would our users think about creating a new recipe? Template? Original/blank 
 User feedback suggested creating new recipes from a template because it’s more user-friendly.
 
 
-
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Based on the latest user insights and previously implemented UX research methods, we have determined it is advantageous to ensure users are directed to the recipe catalog as the home page of The Culinary Collab. Additionally, we have gathered that users may be more inclined to interact by sharing and collaborating with friends lists if a rating system is implemented within the recipe catalogs. On another note, we found through research methods that implementing a search function would be best practice to help navigate through sections within the website and provide more efficient use when actively using The Culinary Collab in a high-volume use case.
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+Some limitations we have come across throughout our process thus far are software development attributes. Our call to action for this product is a communications section. Initially, we thought it may be in our product's best interest to have a friends/followers feature to help expand our target audience. However, implementing primary and key features is much more pertinent to our product and deliverable timeline before expanding networks and branching into a social media space.
