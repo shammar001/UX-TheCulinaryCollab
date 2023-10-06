@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # The Culinary Collab
 
 
@@ -29,9 +27,9 @@ The Culinary Collab is centered around offering a free and collaborative workspa
 
     **Lack of Sharing** The apps surveyed lacked or had poorly implemented social features
 
-* Described User Stories and Personas and gained a  better understanding of our userbase.
+* Described User Stories and Personas and gained a  better understanding of our user base.
 
-* Completed Heuristic Evaluations of main competitor Highball, finding it a high quality app with few pitfalls.
+* Completed Heuristic Evaluations of main competitor Highball, finding it a high-quality app with few pitfalls.
 
 * Created and shared basic sketches to achieve a better understanding of the MVP for the Engineering team.
 
