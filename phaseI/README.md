@@ -28,7 +28,7 @@ Each member of our team independently created 3 user personas and 1 user scenari
 
 With each different persona and scenario, we were able to understand the span of our potential user's utilization of the product. This illuminated our team's understanding of our user to a more broadened target audience, expanding into a home audience in addition to the initial bar/restaurant professional.
 
-3. Competitive Market Analysis:
+2. Competitive Market Analysis:
 Through CMA, our team discovered a lack of resources for free collaborative workspaces to house recipes and templates, with the use of current inventories, for both food and drinks.
 
 No one product had all the qualifications met. These qualifications included, but are not limited to:
@@ -36,7 +36,7 @@ No one product had all the qualifications met. These qualifications included, bu
 * Communication Feed
 * Recipe templates with Inventory incorporation
 
-5. Heuristic Evaluation
+3. Heuristic Evaluation
 Through heuristic evaluation, we analyzed how a couple of different competitors met certain user goals.
 
 Each member of our team performed an independent heuristic evaluation of a competitor.
@@ -165,7 +165,7 @@ Each of the sketches helped in analyzing possible pathways for the user interfac
 
 Keeping in mind our previous heuristic evaluations surrounding competitive market analysis, we were able to ensure key features were implemented for future high-fidelity steps. Some of the key features included, but are not limited to, "back/home" buttons, settings option, recipe deck, communications section, template, and ideation section.
   
-6. User Testing:
+5. User Testing:
 The software engineering team demonstrated their current progress on the product to other software engineers and collected feedback on the questions we proposed.
 
 Is it more useful to start on the menu home page, or would it be more helpful to start from your personal recipes?
