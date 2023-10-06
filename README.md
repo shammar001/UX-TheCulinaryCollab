@@ -8,7 +8,7 @@ The Culinary Collab is centered around offering a free and collaborative workspa
 
 * **[Robert Paul](https://usabilityengineering.github.io/ux-portfolio-robkpaul/)** - Early organization, sketches, wireframes.
 * **[Sophie Hammar](https://usabilityengineering.github.io/ux-portfolio-shammar001/)** - Team organization/communication, Competitive Market Analysis, Heuristic Evaluation, User Personas & Scenarios, Sketches, Wireframes
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[McKeever Watts](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
 
