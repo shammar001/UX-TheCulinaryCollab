@@ -6,7 +6,6 @@ The Culinary Collab aims to provide a free, one-stop platform for both professio
 
 ## Methods
 
-!!! Describe the research methods you used to discover new insights and explain the purpose of each. Provide enough detail that someone would be able to reproduce your research. !!!
 
 1. User Personas & Scenarios: Initialized process with the end user in mind and expanded to reach beyond the target audience. Primary audience/user focused on professional use within restaurant/bar environment. Expansion broadened to home users, ranging from novice, advanced beginner, competent, proficient, and expert (applicable both in professional and home users).
 
@@ -32,9 +31,14 @@ Each member of our team independently created 3 user personas and 1 user scenari
 With each different persona and scenario, we were able to understand the span of our potential user's utilization of the product. This illuminated our team's understanding of our user to a more broadened target audience, expanding into a home audience in addition to the initial bar/restaurant professional.
 
 3. Competitive Market Analysis:
+Through CMA, our team discovered a lack of resources for free collaborative workspaces to house recipes and templates, with the use of current inventories, for both food and drinks.
 
+No one product had all the qualifications met. These qualifications included, but are not limited to:
+* Free/no paywall
+* Communication Feed
+* Recipe templates with Inventory incorporation
 
-4. Heuristic Evaluation
+5. Heuristic Evaluation
 Through heuristic evaluation, we analyzed how a couple of different competitors met certain user goals.
 
 Each member of our team performed an independent heuristic evaluation of a competitor.
