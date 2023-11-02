@@ -10,7 +10,38 @@ The Culinary Collab is an app for discovering and sharing recipes both a home an
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+### Cognitive Walkthrough
+Usability engineers from outside of our team performed cognitive walkthroughs of our wireframes on our three personas, Solomon, John, and Billie.
+
+#### Solomon
+From the Solomon cognitive walkthrough, we learned that we should:
+- Change Workshop to Discover or something to indicate it’s where you find new recipes
+- Make the search field look more like a text input
+- Include wireframe for filter box, show kinds of options it has
+- Have the “add recipe plus button” give feedback on interaction
+- Add list view to “My bar” in addition to carousel or provide some sort of list on the side to quickly jump to recipes
+
+#### John
+From the cognitive walkthrough on John, we learned that we should:
+- Include a heading for the Inventory section under “My bar”
+- Include search and filter section for ingredients
+- Within filters for recipes, filter option for recipes by recipes the user can make with their ingredients
+- Move search and filter CTA buttons to the top
+- Add wireframe for how to add an ingredient (text box pops up in ingredient list with check button for confirming)
+- Create wireframe for workshop recipes page
+    - Change plus to “copy/duplicate” (duplicate icon)
+    - Add edit button (pencil icon)
+    - Add delete button (trash icon)
+    - Change “New Template” to “New Recipe”
+    - Create wireframe for “New Recipe”
+    - Include confirmation “Added to my bar”
+
+#### Billie
+From Billie's cognitive walkthrough, we learned that we should:
+- Create login, landing, sign up pages to start on (starting page unclear)
+- Create wireframe for navbar -> hamburger menu w/ sub-categories
+- Add navigation link to Inventory
+- Add quantity field for ingredients
 
 ## Conclusions
 
