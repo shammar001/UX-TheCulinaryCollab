@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+The Culinary Collab is an app for discovering and sharing recipes both a home and industry environment. Users are intended to be able to create, edit, duplicate, and share recipes for both food and drinks. In this sprint, we participated in a Cognitive Walkthrough and produced Wireframes to better understand our users.
 
 ## Methods
 
