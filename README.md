@@ -39,7 +39,7 @@ The Culinary Collab is centered around offering a free and collaborative workspa
 
 **Executive Summary**
 
-* Completed low-fidelity Wireframes to improve vision of website function and end product.
+* Completed lower-fidelity Wireframes to improve vision of website function and end product.
 
 * Sourced Cognitive Walkthroughs from other teams to obtain better understanding of current wireframes.
 
