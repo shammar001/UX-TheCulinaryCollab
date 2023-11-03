@@ -10,7 +10,8 @@ Cognitive walkthrough:
 
 During our cognitive walkthrough, we tasked participants with probable use cases within The Culinary Collab website using our lower-fidelity wireframes. During this cognitive walkthrough, each participant took on a user persona and goal-oriented task created in phase I. From the persona and task, the participant worked through each step using the wireframe as a proxy for the application. Additionally, they were asked to document their walkthrough answering 2 questions along the way per each step;
 
-Question 1: Will the user know what to do at this step? Question 2: If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+- Question 1: Will the user know what to do at this step?
+- Question 2: If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
 
 ## Findings
 
